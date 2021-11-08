@@ -9,8 +9,10 @@
  
 ## 내일은 프로젝트에 기여하기 위해 무엇을 해야 하나요?
 - [ ] SR(Software Requirement) 기획
----
+
 ## Project Git Flow 정리
+(Project flow에 대해서 실습해보면서 팀원들과 에러를 만나며 정리했다.. 오늘을 발판 삶아 내일은 더 발전하자!)
+
 1. 초기 Repo 설정 > Origin의 레포를 자신의 로컬로 클론
 
 2. master branch에서 초기설정 진행
